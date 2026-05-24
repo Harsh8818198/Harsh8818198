@@ -11,8 +11,7 @@ I ship code that works: my package [`lazycook`](https://pypi.org/project/lazycoo
 | **LazyCook** | Multi-agent AI with RAG retrieval, self-correction loops, FAISS indexing | Python, FastAPI, FAISS, Firebase | [`pip install lazycook`](https://pypi.org/project/lazycook/) |
 | **The Financial Chronicle** | Autonomous financial analysis — NER, knowledge graphs, position sizing | Python, FastAPI, spaCy, Gemini | [GitHub](https://github.com/Harsh8818198/TheFinancialChronicle) |
 | **Code Archaeologist** | AI agent that reconstructs codebase history from git data | TypeScript, Gemini 2.5 Flash, Kestra, Docker | [GitHub](https://github.com/Harsh8818198/code-archaeologist) |
-| **Nexus** | MCP protocol orchestrator — auto-discovers & chains AI tools | Python, FastAPI, MCP, Vector Embeddings | [GitHub] 
-(https://github.com/Harsh8818198/Nexus) |
+| **Nexus** | MCP protocol orchestrator — auto-discovers & chains AI tools | Python, FastAPI, MCP, Vector Embeddings | [GitHub](https://github.com/Harsh8818198/Nexus) |
 ### 🛠️ Tech I Use
 
 ```text
